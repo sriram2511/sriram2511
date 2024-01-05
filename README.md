@@ -4,11 +4,10 @@
 
 💼 Currently, I'm a Machine Learning Intern at Anubrain Technology Pvt.Ltd
 
-🔭 I’m currently working on a machine learning-based food delivery time prediction system, aiming for 89% accuracy.
+🔭 I’m also currently working on my master's thesis
 
-🤔 I’m looking for help with enhancing my skills in deep learning and data visualization.
 
-💬 Ask me about my experience in implementing machine learning in real-world projects or my journey in data science.
+💬 Ask me about my experience in implementing machine learning in real-world projects or my journey in data science.I love to teach and share my knowledge with others.I am always up for a fruitful conversation regarding my subjects.
 
 📫 You can reach out to me at [sriramchitra25@gmail.com](mailto:sriramchitra25@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sriram01/).
 
