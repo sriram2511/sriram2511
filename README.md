@@ -1,50 +1,46 @@
-### Hi there 👋
+# Hi there! 👋 I'm SRIRAM K, a Data Science enthusiast.
 
-# SRIRAM K
-### M.Sc Data Science
+🌱 I'm currently pursuing my M.Sc in Data Science at Vellore Institute of Technology, Chennai.
 
-📞 8124282885 | ✉ sriramchitra25@gmail.com | [LinkedIn](https://www.linkedin.com/in/sriram01/)  
-📍 Pattabiram, Chennai, India
+💼 Currently, I'm a Data Intern at ERMOFILEX-RHYTHM ENGINEERING Pvt. Ltd., where I collect and preprocess diverse data sources.
 
-Passionate and skilled Data Science enthusiast with a strong analytical and technical background. Currently pursuing M.Sc in Data Science at Vellore Institute of Technology. Eager to contribute my expertise in statistics, machine learning, and data analysis to drive growth and help organizations make informed decisions.
+🔭 I’m currently working on a machine learning-based food delivery time prediction system, aiming for 89% accuracy.
 
-## Education
-- **Master of Science in Data Science**
+🤔 I’m looking for help with enhancing my skills in deep learning and data visualization.
+
+💬 Ask me about my experience in implementing machine learning in real-world projects or my journey in data science.
+
+📫 You can reach out to me at [sriramchitra25@gmail.com](mailto:sriramchitra25@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sriram01/).
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy solving Rubik's Cubes in my free time and capturing moments through photography.
+
+### Education
+- **M.Sc in Data Science**
   - *Vellore Institute of Technology, Chennai*
   - CGPA: 8.81 | 2022 - Present
 
-- **Bachelor of Science in Computer Science**
-  - *SRM Institute of Science and Technology, Chennai campus*
+- **B.Sc in Computer Science**
+  - *SRM Institute of Science and Technology, Chennai*
   - CGPA: 9.43 | 2019 – 2022
 
-## Certifications & Achievements
+### Certifications & Achievements
 - **TOPPER in Deep Learning NPTEL exam**
 - **Best Paper Award**
   - SET conference at VIT University
 
-### Certifications:
-- NPTEL: Python for data science, Data analytics with Python, Searching method in AI, Introduction to Machine learning, Deep Learning
-- COURSERA: Python for Everybody, Deep Learning Specialization
-- LINKEDIN LEARNING: Intermediate SQL for Data Scientists
-- IBM: Getting Started with Enterprise Data Science, Journey to Cloud
+### Skills
+- Strong Mathematical and Statistical background
+- Proficiency in Python, C++, R
+- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn
+- Database Management: MySQL
+- Big Data: Hadoop, Spark
+- Deep Learning: TensorFlow, Keras
+- Coding: HackerRank, LeetCode
 
-## Languages
-1. English
-2. Tamil
-
-## Hobbies
-1. Chess
-2. Rubik’s Cube
-3. Photography
-
-## Work Experience
-### Data Intern | 07.2023-09.2023
-**ERMOFILEX-RHYTHM ENGINEERING Pvt. Ltd.**
-- Collected data from diverse sources, ensuring accuracy.
-- Conducted preprocessing of raw data, including cleaning and transformation for analysis preparation.
-- Implemented quality checks, identifying and resolving data inconsistencies.
-
-## Projects
+### Projects
 1. **Food Delivery Time Prediction System**
    - Built a machine learning-based system with 89% accuracy using various regression models.
 
@@ -53,15 +49,3 @@ Passionate and skilled Data Science enthusiast with a strong analytical and tech
 
 3. **Smartphone GPS Enhancement**
    - Implemented machine learning and Kalman filter fusion in smartphone GPS, reducing errors by 20%.
-
-## Skills
-- Strong Mathematical and Statistical background (Linear algebra, Probability theory, Statistics)
-- Proficiency in Python, C++, R
-- Strong problem-solving skills
-- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning: Scikit-learn
-- Database Management: MySQL
-- Big Data: Hadoop, Spark
-- Deep Learning: TensorFlow, Keras
-- Coding: HackerRank, LeetCode
-
