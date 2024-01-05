@@ -2,7 +2,7 @@
 
 🌱 I'm currently pursuing my M.Sc in Data Science at Vellore Institute of Technology, Chennai.
 
-💼 Currently, I'm a Data Intern at ERMOFILEX-RHYTHM ENGINEERING Pvt. Ltd., where I collect and preprocess diverse data sources.
+💼 Currently, I'm a Machine Learning Intern at Anubrain Technology Pvt.Ltd
 
 🔭 I’m currently working on a machine learning-based food delivery time prediction system, aiming for 89% accuracy.
 
@@ -12,9 +12,10 @@
 
 📫 You can reach out to me at [sriramchitra25@gmail.com](mailto:sriramchitra25@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sriram01/).
 
-😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy solving Rubik's Cubes in my free time and capturing moments through photography.
+
+Okay!lets get into my formal background.
 
 ### Education
 - **M.Sc in Data Science**
