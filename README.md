@@ -2,8 +2,6 @@
 
 🌱 I'm currently pursuing my M.Sc in Data Science at Vellore Institute of Technology, Chennai.
 
-💼 Currently, I'm a Machine Learning Intern at Anubrain Technology Pvt.Ltd
-
 🔭 I’m also currently working on my master's thesis
 
 
