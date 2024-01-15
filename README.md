@@ -36,7 +36,7 @@ Okay!lets get into my formal background.
 - Database Management: MySQL
 - Big Data: Hadoop, Spark
 - Deep Learning: TensorFlow, Keras
-- Coding: HackerRank, LeetCode
+- Coding: HackerRank, LeetCode.
 
 ### Projects
 1. **Food Delivery Time Prediction System**
