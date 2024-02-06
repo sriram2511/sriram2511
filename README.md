@@ -2,17 +2,17 @@
 
 🌱 I'm currently pursuing my M.Sc in Data Science at Vellore Institute of Technology, Chennai.
 
-🔭 I’m also currently working on my master's thesis
+🔭 I’m also currently working as a Data science and analytics intern at Skillveri ltd.
 
 
-💬 Ask me about my experience in implementing machine learning in real-world projects or my journey in data science.I love to teach and share my knowledge with others.I am always up for a fruitful conversation regarding my subjects.
+💬 Ask me about my experience in implementing machine learning in real-world projects or my journey in data science. I love to teach and share my knowledge with others. I am always up for a fruitful conversation regarding my subjects.
 
 📫 You can reach out to me at [sriramchitra25@gmail.com](mailto:sriramchitra25@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sriram01/).
 
 
 ⚡ Fun fact: I enjoy solving Rubik's Cubes in my free time and capturing moments through photography.
 
-Okay!lets get into my formal background.
+Okay! let's get into my formal background.
 
 ### Education
 - **M.Sc in Data Science**
