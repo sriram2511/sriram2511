@@ -38,7 +38,7 @@ Okay! let's get into my formal background.
 - WebTechnologies– Html, CSS,Node.Js,
  React.Js.
 - Databases– MySQL,MongoDB.
- Tools and Technologies– Git, Vscode, AWS, Linux.
+- Tools and Technologies– Git, Vscode, AWS, Linux.
 
 ### Projects
 1. **Food Delivery Time Prediction System**
