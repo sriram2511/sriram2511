@@ -10,7 +10,7 @@
 📫 You can reach out to me at [sriramchitra25@gmail.com](mailto:sriramchitra25@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sriram01/).
 
 
-⚡ Fun fact: I enjoy solving Rubik's Cubes in my free time and capturing moments through photography.
+⚡ Fun fact: I enjoy solving Rubik's Cubes in my free time.
 
 Okay! let's get into my formal background.
 
