@@ -17,7 +17,7 @@ Okay! let's get into my formal background.
 ### Education
 - **M.Sc in Data Science**
   - *Vellore Institute of Technology, Chennai*
-  - CGPA: 8.81 | 2022 - Present
+  - CGPA: 8.81 | 2022 - 2024
 
 - **B.Sc in Computer Science**
   - *SRM Institute of Science and Technology, Chennai*
@@ -29,14 +29,16 @@ Okay! let's get into my formal background.
   - SET conference at VIT University
 
 ### Skills
-- Strong Mathematical and Statistical background
-- Proficiency in Python, C++, R
-- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning: Scikit-learn
-- Database Management: MySQL
-- Big Data: Hadoop, Spark
-- Deep Learning: TensorFlow, Keras
-- Coding: HackerRank, LeetCode.
+ Coding– Data Structures,C/C++,
+ Python, JavaScript.
+ Machine Learning– Tensorflow, Keras,
+ Scikit-learn PyTorch.
+ Data Analysis– Pandas,NumPy,
+ Matplotlib, seaborn.
+ WebTechnologies– Html, CSS,Node.Js,
+ React.Js.
+ Databases– MySQL,MongoDB.
+ Tools and Technologies– Git, Vscode, AWS, Linux.
 
 ### Projects
 1. **Food Delivery Time Prediction System**
