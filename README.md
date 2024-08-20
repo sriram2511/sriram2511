@@ -29,15 +29,15 @@ Okay! let's get into my formal background.
   - SET conference at VIT University
 
 ### Skills
- Coding– Data Structures,C/C++,
+- Coding– Data Structures,C/C++,
  Python, JavaScript.
- Machine Learning– Tensorflow, Keras,
+- Machine Learning– Tensorflow, Keras,
  Scikit-learn PyTorch.
- Data Analysis– Pandas,NumPy,
+- Data Analysis– Pandas,NumPy,
  Matplotlib, seaborn.
- WebTechnologies– Html, CSS,Node.Js,
+- WebTechnologies– Html, CSS,Node.Js,
  React.Js.
- Databases– MySQL,MongoDB.
+- Databases– MySQL,MongoDB.
  Tools and Technologies– Git, Vscode, AWS, Linux.
 
 ### Projects
