@@ -47,5 +47,5 @@ Okay! let's get into my formal background.
 2. **Lung Disease Classification**
    - Developed and evaluated deep learning models (DenseNet121, EfficientNet B1) for lung disease classification from chest X-ray images.
 
-3. **Smartphone GPS Enhancement**
-   - Implemented machine learning and Kalman filter fusion in smartphone GPS, reducing errors by 20%.
+3. **Machine Learning: Multiclass Disease Classification**
+   - Pioneered precise multi-label medical condition classification through advanced feature selection and hyperparameter optimization, reducing the feature set from 133 to 20 while retaining 93 percent accuracy across diverse disease categories, ensuring robust diagnosis.
