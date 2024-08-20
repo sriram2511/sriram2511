@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm SRIRAM K, a Data Science enthusiast.
 
-🌱 I'm currently pursuing my M.Sc in Data Science at Vellore Institute of Technology, Chennai.
+🌱 I recently graduated with an M.Sc. in Data Science from Vellore Institute of Technology, Chennai.
 
-🔭 I’m also currently working as a Data science and analytics intern at Skillveri ltd.
+🔭 I also completed an internship as a Data Science and Analytics Intern at Skillveri Ltd.
 
 
 💬 Ask me about my experience in implementing machine learning in real-world projects or my journey in data science. I love to teach and share my knowledge with others. I am always up for a fruitful conversation regarding my subjects.
